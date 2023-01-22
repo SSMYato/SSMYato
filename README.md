@@ -1,5 +1,5 @@
 Seja Bem-vindo ao meu perfil<br>
-Front-end developer e sempre em busca de conhecimento para me aperfeiçoar profissionalmente e como ser humano :wink:
+Front-end developer e sempre em busca de conhecimento para me aperfeiçoar profissionalmente e como ser humano :wink:.
 <br>
 <br>
 Atualmente estou aprendendo:<br>
@@ -9,6 +9,7 @@ Atualmente estou aprendendo:<br>
   - <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node-logo'>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSMYato&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSMYato&show_icons=true&theme=github_dark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSMYato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Você pode entrar em contato comigo pelo meu [instagram](https://www.instagram.com/ssm.yato/) ou pelo meu [Discord](https://cdn.discordapp.com/attachments/792917829397643304/1066830564931407912/image.png)
+Você pode entrar em contato comigo pelo meu [instagram](https://www.instagram.com/ssm.yato/) ou pelo meu [Discord](https://cdn.discordapp.com/attachments/792917829397643304/1066830564931407912/image.png).
