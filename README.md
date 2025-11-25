@@ -1,5 +1,5 @@
 Seja Bem-vindo ao meu perfil<br>
-Front-end developer e sempre em busca de conhecimento para me aperfeiçoar profissionalmente e como ser humano :wink:.
+Web developer e sempre em busca de conhecimento para me aperfeiçoar profissionalmente e como ser humano :wink:.
 <br>
 <br>
 Atualmente estou aprendendo:<br>
