@@ -9,4 +9,4 @@ Atualmente estou aprendendo:<br>
   - <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='node-logo'>
 <br>
 
-Você pode entrar em contato comigo pelo meu [instagram](https://www.instagram.com/ssm.yato/) ou pelo meu [Discord](https://cdn.discordapp.com/attachments/792917829397643304/1066830564931407912/image.png).
+Você pode entrar em contato comigo pelo meu [instagram](https://www.instagram.com/samuel.ssmdev/) ou pelo meu [Discord](https://cdn.discordapp.com/attachments/792917829397643304/1066830564931407912/image.png).
